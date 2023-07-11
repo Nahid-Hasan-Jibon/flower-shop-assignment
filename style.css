@@ -1,0 +1,230 @@
+body{
+
+    font-family: 'Lato', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+
+
+header{
+    background-color:#E554731A ;
+    
+}
+
+
+.banner1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 30px 240px 0px 240px;
+    
+}
+.banner-quote{
+    font-weight: 700;
+    
+    font-size: 70px;
+}
+
+.banner1-img{
+    width: 700px;
+
+    margin-bottom: -6px;
+
+
+}
+
+.btn{
+
+    padding: 20px 43px;
+    border-radius: 8px;
+background: #E55473;
+border: 0;
+color: #FFF;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+margin-top: 10px;
+}
+
+.section-title{
+    margin-top: 150px;
+    text-align: center;
+}
+
+.flowers-display{
+    display: flex;
+    justify-content:space-between;
+    
+align-items: center;
+
+    margin-top: 20px;
+    padding: 0px 100px 0px 100px;
+}
+
+
+.pink-flower{
+    padding: 110px 75px 0px 75px;
+
+background-color:#A7216226 ;
+height: 450px;
+width: 430px;
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+
+
+
+}
+
+.flower-bouquet{
+
+
+    background-color:#0597A026 ;
+    padding: 110px 75px 0px 75px;
+
+
+    height: 450px;
+    width: 430px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    
+   
+}
+
+.yellow-flower{
+
+    padding: 110px 75px -10px 75px;
+
+
+    height: 550px;
+    width: 530px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    
+background-color:#477D1126 ;   
+
+}
+
+.flower-description{
+
+    display: flex;
+    justify-content: space-around;
+    
+    padding: 0px 600px 0px 600px;
+    
+
+
+} 
+.flower-title{
+
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    line-height: 35px;
+    margin-top: 40px;
+}
+.flower-title2{
+
+    text-align: center;
+    font-size: 25px;
+    display: block;
+    line-height: 35px;
+    margin-top: 40px;
+    padding-top: 55px;
+}
+
+
+
+.hot-deal{
+background-color: #E554730D;
+
+display: flex;
+justify-content:space-evenly;
+align-items: center;
+
+padding: 100px 50px;
+margin-top:150px;
+
+}
+
+.deal-description{
+    text-align: center;
+}
+
+.social-media{
+ text-align: center;
+   margin-top: 100px;
+   margin-bottom: 50px;
+}
+.flower-photo{
+ padding: 10px 450px 10px 450px;
+ display: flex;
+ justify-content: space-around;
+
+}
+
+.input-area{ 
+    background-image: url('flower-asset/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-position: center;
+    margin: 100px auto;
+    width: 1440px;
+height: 449px;
+
+}
+.input-text{
+text-align: center;
+padding: 100px;
+
+}
+.input-box{
+    width: 600px;
+    height: 60px;
+    margin-left: 20px;
+
+
+}
+
+
+.location-banner{
+display: flex;
+justify-content: space-around;
+align-items: center;
+
+background-color:#E554731A ;
+
+}
+
+
+.location-img{
+
+    padding: 100px;
+}
+
+.location-title{
+    background-color: rgb(233, 223, 223);
+    height: 420px;
+    width: 500px;
+    padding: 150px;
+
+
+}
+
+
+
+footer{
+
+
+    margin-top: 150px;
+
+    text-align: center;
+    
+    background-color: black;
+      padding: 20 px 0px ;
+
+      height: 300px;
+
+
+}
+.footer-text{
+
+    padding: 50px;
+}
